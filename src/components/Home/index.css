@@ -1,0 +1,17 @@
+.git-bg{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.git-api{
+    cursor: pointer;
+    font-size: 25px;
+    color: blue;
+}
+
+.git-h{
+    font-size: 25px;
+    margin-bottom: 15px;
+}

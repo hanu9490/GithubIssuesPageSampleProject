@@ -1,0 +1,11 @@
+.issues-page-bg{
+    display: flex;
+    background-color: #0f172a;
+    flex-direction: column;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.header{
+    color: #ffffff;
+}

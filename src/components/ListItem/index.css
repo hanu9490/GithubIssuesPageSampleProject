@@ -1,0 +1,12 @@
+.list-bg-container{
+    margin: 3px;
+}
+
+.list-item-anchor{
+    color: #0b69ff;
+    font-size: 17px;
+}
+
+.list-container{
+    list-style-type: none;
+}
